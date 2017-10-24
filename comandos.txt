@@ -1,0 +1,4 @@
+charat
+strtok
+s_scanf
+strcmp
